@@ -1,0 +1,89 @@
+body{
+    background-color: #2a2438;
+    color:#dbd8e3;
+    font-family: system-ui;
+}
+#image
+{
+  max-width: 100%;
+  height: auto;
+  display:block;
+  margin: 0 auto;
+  width: 800px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 0%;
+    font-family: "Gill Sans", sans-serif;
+    padding-top: 20px;
+}
+#sentance{
+    text-align: center;
+    color:rgb(178, 161, 161);
+    font-family:cursive;
+}
+#img-div{
+    text-align: center;
+}
+#outer-img{
+    background-color: #352f44;
+    padding:50px ;
+}
+#img-container{
+    display: inline-block; 
+    background-color: #5c5470; 
+    padding: 20px;
+}
+#img-caption{
+    margin-top: 10px;
+    font-size: smaller;
+    font-family:cursive ;
+}
+#intro{
+    font-size: 15px; 
+    line-height: 1.6; 
+    margin-bottom: 17px; 
+    
+}
+#tribute-info{
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px
+}
+h3{
+  padding-top: 18px;
+}
+li {
+    margin-bottom: 15px; 
+}
+.invention-name{
+    font-weight:bold;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+ul {
+    list-style-type: none; 
+    padding-bottom: 30px;
+  } 
+ ul li:before { 
+    content: ''; 
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-size: 20px;
+    background-image: url("https://i.postimg.cc/qRsbJdQw/lightbulb.png"); 
+    background-repeat: no-repeat;
+    margin-right: 5px;
+}
+footer{
+    text-align: center;
+    font-family:cursive;
+    font-size: 14px;
+    background-color: #453d58;
+    padding: 15px;
+}
+#tribute-link{
+    color: white;
+}
+  
